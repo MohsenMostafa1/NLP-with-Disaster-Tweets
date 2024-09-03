@@ -11,5 +11,5 @@ In this competition, you’re challenged to build a machine learning model that 
 
 Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.
 <figure>
-        <img src="https://www.kaggle.com/competitions/17777/images/header" alt ="Audio Art" style='width:800px;height:500px;'>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGN4c5s8hPfQ9kYZZmECRONAs-ZRNqU9aUbg&s" alt ="Audio Art" style='width:800px;height:500px;'>
         <figcaption>
