@@ -9,7 +9,7 @@ The author explicitly uses the word “ABLAZE” but means it metaphorically. Th
 
 In this challenge to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. You’ll have access to a dataset of 10,000 tweets that were hand classified. If this is your first time working on an NLP problem, we've created a quick tutorial to get you up and running.
 
-Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.
+Disclaimer: The dataset contains text that may be considered profane, vulgar, or offensive.
 <figure>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGN4c5s8hPfQ9kYZZmECRONAs-ZRNqU9aUbg&s" alt ="Audio Art" style='width:800px;height:500px;'>
         <figcaption>
